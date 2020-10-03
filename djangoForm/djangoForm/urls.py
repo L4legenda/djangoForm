@@ -18,5 +18,27 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    asdasdasdasdsa
-]
+    asdasdasdasdsafssaefsef
+sfesef
+    defse
+    class
+    sef
+
+    deffe
+    urlpatternsf
+    urlpatternsf
+    urlpatternsf
+    sfe
+    fors
+    defef
+    exec f
+    urlpatternsf
+    sf
+    deff
+    urlpatternse
+    fe
+    urlpatterns
+    deffs
+    exec f
+    exec urlpatternsd
+    def
